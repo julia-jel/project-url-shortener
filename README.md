@@ -1,2 +1,2 @@
 # project-url-shortener
-Url encoder
+Encodes any url (base64), then decodes and redirects to the initial one.
